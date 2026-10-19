@@ -91,9 +91,7 @@ In this initial experiment, TimesFM 3.0 produced the most accurate forecasts amo
 
 ![TimesFM MAE improvement compared with seasonal naive](results/timesfm_mae_improvement.png)
 
-### Comparison of All Three Models
 
-![MAE and RMSE comparison of Seasonal Naive, SARIMA, and TimesFM 3.0](results/three_model_comparison.png)
 
 ## Project Structure
 
